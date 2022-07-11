@@ -1,6 +1,7 @@
 # Minimal-Browser2
 Next version of Minimal Browser C++
 
+<b> Current version is 2.5 Beta. Notice that this version might contain bugs.</b>
 
 Copyright (c) 2020 JJ Posti <techtimejourney.net>
 
