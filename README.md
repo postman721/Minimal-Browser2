@@ -12,6 +12,9 @@ This is free software, and you are welcome to redistribute it under GPL Version 
 GPL v2 is upgraded to GPL v3.
 Also adding Apache v2 license as an alternative possibility if GPL v3 is not desired.
 
+
+![browser](https://user-images.githubusercontent.com/29865797/178351588-e53b7b0d-bd46-4806-95d0-a1f9527658a5.jpg)
+
 Features added by v2.5 beta
 
 - DuckDuckGo as search engine.
