@@ -22,7 +22,7 @@ Features added by v2.5 beta
 - Tabbed browsing.
 - UI is redesigned.
 - Icons removed.
-- search bar is gone. Searching done by writing <b>search:<your_search></b> to addressbar and pressing Enter.
+- Searchbar is gone. Searching done by writing <b>search:<your_search></b> to addressbar and pressing Enter.
 - Navigation improvements:
 	<b>Navigation example, URLs should be written like this:</b>
 		
