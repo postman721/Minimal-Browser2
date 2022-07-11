@@ -58,7 +58,9 @@ To download a file, use <b>Copy Link option</b> from the right-click menu. Next,
 
 <b> Coming from QT bugs: sites like Youtube & Google have issues loading.</b>
 
-
+	
+##### OLD VERSIONS
+	
 Features added by v2.
 
 Old version is available at: https://github.com/postman721/Minimal_Browser
